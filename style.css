@@ -1,9 +1,13 @@
 h1{
     text-align: center;
     font-size: 40px;
+    color:beige ;
 }
 
 p{
 text-align: center;
 font: size 35px; ;
+}
+body{
+    background-color: brown;
 }
