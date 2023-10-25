@@ -5,7 +5,7 @@ h1{
    
 }
 
-p{
+.teste{
 text-align: center;
 font: size 40px;
 color: rgb( 236, 152, 16)
@@ -15,3 +15,4 @@ body{
     background-color: rgba(4, 47, 85, 0.603);
     font-family: Verdana, ;
 }
+
