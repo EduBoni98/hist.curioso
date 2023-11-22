@@ -12,7 +12,7 @@ color: rgb( 236, 152, 16)
  ;
 }
 body{
-    background:linear-gradient rgba(168, 174, 179, 0.603);
+    background: linear-gradient(#e66465, #9198e5);
     font-family: Verdana, ;
 }
 .teste{ 
